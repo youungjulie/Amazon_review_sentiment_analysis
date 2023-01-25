@@ -12,7 +12,7 @@ which generated the most accurate prediction with 83.00% accuracy. The best meth
 There are some brief tables of summary from the report. 
 
 ### Machine Learning Result
-![image](https://user-images.githubusercontent.com/63425702/214632556-cd7195bc-59ec-4032-95a2-d4ed6b4760cd.png)
+![image](https://user-images.githubusercontent.com/63425702/214632556-cd7195bc-59ec-4032-95a2-d4ed6b4760cd.png = 250x250)
 
 ### Transfer Learning Result
 ![image](https://user-images.githubusercontent.com/63425702/214632845-f0620896-68f0-457d-a36c-fd4e9710c515.png)
