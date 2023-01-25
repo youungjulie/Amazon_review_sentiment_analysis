@@ -9,4 +9,4 @@ and want to predict sentiments of DVD reviews as the target domain from books re
 and **TrAdaBoost** method. The best model for sentiment prediction is the **Random Forest Classifier**, 
 which generated the most accurate prediction with 83.00% accuracy. The best method for the Transfer Learning model is **TrAdaBoost** which result in 76% accuracy. 
 
-For detail report of the project, please review the file **"Final Report"**
+For detail report of the project, please review the file **"Final Report.pdf"**
