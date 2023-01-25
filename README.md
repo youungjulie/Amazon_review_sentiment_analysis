@@ -8,3 +8,5 @@ Support Vector Machine, Random Forest, and XGBoost. I also developed this conten
 and want to predict sentiments of DVD reviews as the target domain from books reviews as the source domain using the **Subspace Alignment** method 
 and **TrAdaBoost** method. The best model for sentiment prediction is the **Random Forest Classifier**, 
 which generated the most accurate prediction with 83.00% accuracy. The best method for the Transfer Learning model is **TrAdaBoost** which result in 76% accuracy. 
+
+For detail report of the project, please review the file **"Final Report"**
