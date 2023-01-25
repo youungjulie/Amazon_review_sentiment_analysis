@@ -12,12 +12,12 @@ which generated the most accurate prediction with 83.00% accuracy. The best meth
 There are some brief tables of summary from the report. 
 
 ### Machine Learning Result
-![image](https://user-images.githubusercontent.com/63425702/214632556-cd7195bc-59ec-4032-95a2-d4ed6b4760cd.png = 250x250)
+<img src="https://user-images.githubusercontent.com/63425702/214632556-cd7195bc-59ec-4032-95a2-d4ed6b4760cd.png"  width="500" height="200" />
 
 ### Transfer Learning Result
-![image](https://user-images.githubusercontent.com/63425702/214632845-f0620896-68f0-457d-a36c-fd4e9710c515.png)
+<img src="https://user-images.githubusercontent.com/63425702/214632845-f0620896-68f0-457d-a36c-fd4e9710c515.png"  width="700" height="100" />
 
 ### Word Cloud
-![word_cloud](https://user-images.githubusercontent.com/63425702/214632439-63620df5-7056-4d9c-a975-944339295345.png)
+<img src="https://user-images.githubusercontent.com/63425702/214632439-63620df5-7056-4d9c-a975-944339295345.png"  width="700" height="350" />
 
 For detail report of the project, please review the file **"Final Report.pdf"**
